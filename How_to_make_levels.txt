@@ -1,0 +1,29 @@
+╔════════════════════════════════════════════════╗
+║                                                ║
+║  P                                             ║
+║                                                ║
+║                                                ║
+║  ■                                             ║
+║                                                ║
+║                                                ║
+║                                                ║
+║                                                ║
+║                                                ║
+╚════════════════════════════════════════════════╝
+
+The start point should be marked with a 'P'
+Ice should be marked with a '░'
+Acid should be marked with a '▒'
+Breakable walls should be marked with  '└,┌,┐,┘,┴,├,┬,┤,┼,─,│'
+Portals should be marked with Ø and ø.
+
+The player will only collide with items from this list
+
+╚,╔,╗,╝,╩,╠,╦,╣,╬,═,║
+
+The game area can only be 12 characters tall (the top and bottom line
+have to be buffers, ie you can't move on to them)
+
+However the game area can be as long as you want it to be. (30 wide is
+the acceptable maximum)
+new items will be added soon
